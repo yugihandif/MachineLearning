@@ -1,4 +1,3 @@
-## Tugas Pertemuan 9
 ## UJIAN AKHIR SEMESTER
 
 ## app.py
